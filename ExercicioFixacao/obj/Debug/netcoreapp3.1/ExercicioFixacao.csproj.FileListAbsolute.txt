@@ -1,0 +1,14 @@
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.exe
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.deps.json
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.runtimeconfig.json
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.runtimeconfig.dev.json
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.dll
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.1\ExercicioFixacao.pdb
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.dll
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.pdb
+C:\Users\jucam\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.1\ExercicioFixacao.genruntimeconfig.cache
